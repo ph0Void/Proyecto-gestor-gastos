@@ -10,6 +10,9 @@
 
 ---
 
+  <img width="400" height="952" alt="image" src="https://github.com/user-attachments/assets/a4bd238c-fc33-41fd-b4c8-618e98f751ab" />
+
+
 ## 📝 Descripción
 
 **Gestor de Gastos Personales** es una aplicación web moderna y segura para la gestión de presupuestos y gastos personales. Permite a los usuarios llevar un control detallado de sus finanzas, visualizar estadísticas interactivas y recibir asesoría personalizada a través de un chatbot inteligente potenciado por IA (Gemini). El sistema cuenta con autenticación robusta, notificaciones por email, dashboard visual y un diseño responsive con modo oscuro.
