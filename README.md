@@ -68,14 +68,6 @@
 
 ---
 
-## 🌐 Demo y Recursos
-
-- **Demo online:** [chat-demo.nelson.dev](https://chat-demo.nelson.dev)
-- **Repositorio Backend:** [GitHub](https://github.com/ph0Void/Proyecto-gestor-gastos.git)
-- **Video demo:** [YouTube](https://youtu.be/demo-chat-app)
-
----
-
 ## ⚡ Instalación Rápida
 
 1. **Clona el repositorio**
@@ -109,9 +101,7 @@
 
 ## 📖 Documentación
 
-- **[Guía de instalación y configuración](./docs/INSTALL.md)**
 - **[Endpoints de la API](./docs/API.md)**
-- **[Guía de uso del chatbot IA](./docs/CHATBOT.md)**
 
 ---
 
@@ -121,23 +111,19 @@ El sistema integra un chatbot inteligente basado en Google Gemini AI, capaz de a
 
 ---
 
+## 🌐 Demo y Recursos
+
+- **Demo online:** [chat-demo.nelson.dev](https://chat-demo.nelson.dev)
+- **Repositorio Backend:** [GitHub](https://github.com/ph0Void/Proyecto-gestor-gastos.git)
+- **Video demo:** [YouTube](https://youtu.be/demo-chat-app)
+
+---
+
 ## 👨‍💻 Autor
 
-- **Nelson** - [@ph0Void](https://github.com/ph0Void)
+- **Ph0Void** - [@ph0Void](https://github.com/ph0Void)
 
 ---
 
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más información.
-
----
-
-## ⭐ ¿Te gusta el proyecto?
-
-¡Dale una estrella ⭐ en GitHub y contribuye con tus ideas o mejoras!
-
-
----
 
 
