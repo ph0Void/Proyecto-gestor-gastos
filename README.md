@@ -1,7 +1,3 @@
-¡Por supuesto! Aquí tienes un **README.md general** para tu proyecto **Gestor de Gastos Personales**, ideal como presentación principal en GitHub. Está estructurado para causar una excelente primera impresión, resaltar el valor del proyecto y facilitar la comprensión a cualquier visitante.
-
----
-
 # 💰 Gestor de Gastos Personales
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
